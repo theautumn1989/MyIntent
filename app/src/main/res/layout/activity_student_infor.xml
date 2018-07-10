@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".StudentInforActivity">
+
+    <TextView
+        android:textSize="@dimen/textsize_title"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:gravity="center"
+        android:text="Student Info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:textSize="@dimen/textsize_info"
+        android:id="@+id/tv_name"
+        android:text="Name: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:id="@+id/tv_address"
+        android:textSize="@dimen/textsize_info"
+        android:text="Address: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:id="@+id/tv_birthday"
+        android:textSize="@dimen/textsize_info"
+        android:text="Birthday: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:id="@+id/tv_gender"
+        android:textSize="@dimen/textsize_info"
+        android:text="Gender: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:id="@+id/tv_class"
+        android:textSize="@dimen/textsize_info"
+        android:text="Class: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:id="@+id/tv_course"
+        android:textSize="@dimen/textsize_info"
+        android:text="course: "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

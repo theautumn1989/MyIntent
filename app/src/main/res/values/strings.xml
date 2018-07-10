@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyIntent</string>
+    <string name="name">name</string>
+    <string name="next">Next</string>
+
+
+    <string name="address">address</string>
+    <string name="birthday">birthday</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="class1">class</string>
+    <string name="course">course</string>
+    <string name="save">Save</string>
+</resources>

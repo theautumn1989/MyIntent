@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="maginbottom">15dp</dimen>
+    <dimen name="textsize">25sp</dimen>
+    <dimen name="textsize_edt">18sp</dimen>
+    <dimen name="textsize_title">25sp</dimen>
+    <dimen name="textsize_info">20sp</dimen>
+</resources>
